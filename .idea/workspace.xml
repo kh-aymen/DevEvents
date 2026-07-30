@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58cdc36c-0de9-4635-bbbe-6a687786026b" name="Changes" comment="" />
+    <list default="true" id="58cdc36c-0de9-4635-bbbe-6a687786026b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="5" />
+    <option name="cachedIndexableFilesCount" value="38" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,61 +28,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000919396" />
-      <entry key="MS500" value="1.01723268416161" />
-      <entry key="S2" value="1.7270609602646196" />
-      <entry key="S5" value="2.669414367792178" />
-      <entry key="S10" value="3.2300969416574663" />
-      <entry key="S30" value="3.8329021533353016" />
-      <entry key="S60" value="4.528646723311258" />
-      <entry key="M2" value="6.466348266317829" />
-      <entry key="M5" value="17.008193843153666" />
-      <entry key="M10" value="36.67489919069833" />
-      <entry key="M15" value="52.8363755271927" />
-      <entry key="M30" value="84.2549030237531" />
-      <entry key="H1" value="112.5573286606972" />
-      <entry key="H2" value="132.46085137017968" />
-      <entry key="H4" value="144.41522780530087" />
-      <entry key="D1" value="155.61166357352022" />
-      <entry key="W1" value="157.6556117913835" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000640696275753" />
+      <entry key="S2" value="1.0910329842948159" />
+      <entry key="S5" value="1.4738761671422818" />
+      <entry key="S10" value="2.081028805987306" />
+      <entry key="S30" value="3.8895816192915365" />
+      <entry key="S60" value="7.278419479008122" />
+      <entry key="M2" value="16.761257415727773" />
+      <entry key="M5" value="42.40881437253581" />
+      <entry key="M10" value="70.89913679617528" />
+      <entry key="M15" value="91.74807164385653" />
+      <entry key="M30" value="137.4912458268714" />
+      <entry key="H1" value="196.73348289842687" />
+      <entry key="H2" value="255.21458133845906" />
+      <entry key="H4" value="298.7594701249455" />
+      <entry key="D1" value="346.0454515146014" />
+      <entry key="W1" value="355.40098141756727" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.2443204263493084E-148" />
-      <entry key="MS500" value="2.6241366453032928E-30" />
-      <entry key="S2" value="4.024821381933598E-8" />
-      <entry key="S5" value="0.0011012862238245452" />
-      <entry key="S10" value="0.033284207440670066" />
-      <entry key="S30" value="0.4258662205832156" />
-      <entry key="S60" value="1.3463733894819876" />
-      <entry key="M2" value="3.553659791899137" />
-      <entry key="M5" value="10.733733558388762" />
-      <entry key="M10" value="20.923000459991343" />
-      <entry key="M15" value="28.068464486914017" />
-      <entry key="M30" value="39.64784265010404" />
-      <entry key="H1" value="48.28351880819869" />
-      <entry key="H2" value="53.67549942541132" />
-      <entry key="H4" value="56.70866982255437" />
-      <entry key="D1" value="59.432317529336316" />
-      <entry key="W1" value="59.91841739454736" />
+      <entry key="MS100" value="1.1365851002191289E-18" />
+      <entry key="MS500" value="2.5770354434520663E-4" />
+      <entry key="S2" value="0.12670101613758397" />
+      <entry key="S5" value="0.4376350268120712" />
+      <entry key="S10" value="0.6618098102187198" />
+      <entry key="S30" value="1.011255642904696" />
+      <entry key="S60" value="1.694381106964528" />
+      <entry key="M2" value="3.320301222677362" />
+      <entry key="M5" value="8.477241331327983" />
+      <entry key="M10" value="15.246075129058946" />
+      <entry key="M15" value="21.014130937079873" />
+      <entry key="M30" value="36.14324484206546" />
+      <entry key="H1" value="57.62057978085812" />
+      <entry key="H2" value="78.67391572955817" />
+      <entry key="H4" value="93.99295159938403" />
+      <entry key="D1" value="110.27678348817025" />
+      <entry key="W1" value="113.45763490468185" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="2.358294096495258E-8" />
-      <entry key="MS500" value="0.0392472883025664" />
-      <entry key="S2" value="1.0124806826098414" />
-      <entry key="S5" value="2.2496769520580884" />
-      <entry key="S10" value="3.0147382023899993" />
-      <entry key="S30" value="4.132607959208197" />
-      <entry key="S60" value="5.755183920792739" />
-      <entry key="M2" value="9.90556688001119" />
-      <entry key="M5" value="27.63763224010473" />
-      <entry key="M10" value="57.50675365999794" />
-      <entry key="M15" value="80.8261214071484" />
-      <entry key="M30" value="123.84839299156123" />
-      <entry key="H1" value="160.80776143829038" />
-      <entry key="H2" value="186.11788106893522" />
-      <entry key="H4" value="201.11410657799672" />
-      <entry key="D1" value="215.042264561795" />
-      <entry key="W1" value="217.57378178556897" />
+      <entry key="MS100" value="3.638885519410527E-7" />
+      <entry key="MS500" value="0.051619740788621984" />
+      <entry key="S2" value="0.6118189858161937" />
+      <entry key="S5" value="1.4766194594964688" />
+      <entry key="S10" value="2.4159853297863" />
+      <entry key="S30" value="4.720038615510055" />
+      <entry key="S60" value="8.842329286639991" />
+      <entry key="M2" value="19.980122395762955" />
+      <entry key="M5" value="50.80136932467878" />
+      <entry key="M10" value="86.07024121117612" />
+      <entry key="M15" value="112.69336444106592" />
+      <entry key="M30" value="173.57668686115136" />
+      <entry key="H1" value="254.3094709209612" />
+      <entry key="H2" value="333.8586561175298" />
+      <entry key="H4" value="392.7347667312308" />
+      <entry key="D1" value="456.31880800720654" />
+      <entry key="W1" value="468.8581132213455" />
     </decayedShown>
   </component>
   <component name="PackageJsonUpdateNotifier">
@@ -105,7 +111,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
@@ -132,7 +138,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1785441455292</updated>
-      <workItem from="1785441456105" duration="4071000" />
+      <workItem from="1785441456105" duration="7328000" />
     </task>
     <servers />
   </component>
